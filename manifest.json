@@ -1,11 +1,10 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Lizard Game",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Lizard Game",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "start_url": "/lizard-game/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "any",
+  "scope": "/"
 }
